@@ -1,0 +1,15 @@
+D:\Університет\oop#3\oop#3\bin\Debug\net6.0\oop#3.exe
+D:\Університет\oop#3\oop#3\bin\Debug\net6.0\oop#3.deps.json
+D:\Університет\oop#3\oop#3\bin\Debug\net6.0\oop#3.runtimeconfig.json
+D:\Університет\oop#3\oop#3\bin\Debug\net6.0\oop#3.dll
+D:\Університет\oop#3\oop#3\bin\Debug\net6.0\oop#3.pdb
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.csproj.AssemblyReference.cache
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.AssemblyInfoInputs.cache
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.AssemblyInfo.cs
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.csproj.CoreCompileInputs.cache
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.dll
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\refint\oop#3.dll
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.pdb
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\oop#3.genruntimeconfig.cache
+D:\Університет\oop#3\oop#3\obj\Debug\net6.0\ref\oop#3.dll
